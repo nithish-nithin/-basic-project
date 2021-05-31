@@ -1,0 +1,52 @@
+ul{
+    width:1500 ;
+    margin: auto;
+    background:black;
+    border:2px solid black ;
+    text-align: center;
+}
+ul li{
+    border-radius: 25px;
+    border: 2px solid rgb(218, 30, 93);
+    margin: left 10px;
+    list-style-type: none;
+    color: blanchedalmond;
+    display: inline-block;
+    padding: 15px;
+    font-family: cursive;
+}
+    ul li:hover{
+        background-color: palevioletred;
+        cursor: pointer;
+
+    }
+    marquee{
+        background:black;
+        color:black;
+        width: 1350px;
+        height: 20px;
+        
+
+    }
+    h1{
+        font-size: 5vw;
+        font-family: -apple-system;
+        text-align: center;
+        
+    }
+    p{
+        font-size: 3vw;
+        text-align: center;
+         font-family: serif;
+
+    }
+    img{
+        display:block;
+        margin:0 auto 0 auto;
+    }
+    h2{
+        font-size: 3vw;
+        text-align: center;
+        font-family: cursive;
+    }
+    
